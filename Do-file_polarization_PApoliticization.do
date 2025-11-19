@@ -124,4 +124,4 @@ xtreg PA_politicization_index c.L2.v2cacamps##i.admin_trad_num log_gdppc e_peave
 eststo AdminRE2
 
 //Printing the models
-esttab AdminRE1 AdminRE2 using FundamentalsofDem_Admin.rtf, replace se r2 ar2  label scalars(rmse r2_w r2_o r2_b sargan sarganp)
+esttab AdminRE1 AdminRE2 using FundamentalsofDem_Admin.rtf, replace se r2 ar2  label scalars(rmse r2_w r2_o r2_b)
