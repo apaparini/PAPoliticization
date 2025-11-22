@@ -3,6 +3,4 @@ Stata scripts and databases supporting the final paper for the course Fundamenta
 
 - *Do-file_polarization_PApoliticization* contains the commented stata script
 
-- *Polarization&PAPoliticization* is the table contanining the final results of the alternative specifications of the FE models.
-
 - *admin_traditions.dta* is a database containing the list of countries and administrative traditions codified in Cooper (2021)
